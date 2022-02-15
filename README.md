@@ -179,7 +179,7 @@ export class AppModule { }
 ## OUTPUT:
 
 ### Home Page:
-[Output](./output.jpeg)
+[Output](output.jpeg)
 
 ## Result:
 This is code is executed successfully to create a webpage to make mathematical calculations using angular.
